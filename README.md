@@ -1,25 +1,25 @@
 # 𝗥𝗔𝗩𝗘𝗡-𝗕𝗢𝗧
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=HOLLA+THIS+IS+RAVEN-BOT;MULTI+DEVICE+WHATSAPP+BOT;CODED+BY+NICK;STAR+AND+FORK+THE+REPO" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=HOLLA+THIS+IS+RAVEN-BOT;MULTI+DEVICE+WHATSAPP+BOT;CODED+BY+MATTHIAS;STAR+AND+FORK+THE+REPO" alt="Typing SVG" />
   </a>
 </p>
   
 <p align="center">
 
-[![Nick Hunter](https://github.com/HunterNick2.png?lenght=50width=50)](https://github.com/HunterNick2)
+[![MATTHIAS Hunter](https://github.com/Matthias112.png?lenght=50width=50)](https://github.com/Matthias112)
 </p>
 <p align="center">
   <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=RAVEN+WHATSAPP+BOT" alt="">
 </p>
 <p align="center">
-<a href="#"><img title="Creator" src="https://img.shields.io/badge/Creator-𝗡𝗶𝗰𝗸_𝗛𝘂𝗻𝘁𝗲𝗿-blue.svg?style=for-the-badge&logo=github"></a>
+<a href="#"><img title="Creator" src="https://img.shields.io/badge/Creator-Matthias_𝗛𝘂𝗻𝘁𝗲𝗿-blue.svg?style=for-the-badge&logo=github"></a>
 </p>
 <p align="center">
-<a href="https://github.com/HunterNick2?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/HunterNick2?label=Followers&style=social"></a>
-<a href="https://github.com/HunterNick2/RAVEN-BOT/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/HunterNick2/RAVEN-BOT?&style=social"></a>
-<a href="https://github.com/HunterNick2/RAVEN-BOT/network/members"><img title="Fork" src="https://img.shields.io/github/forks/HunterNick2/RAVEN-BOT?style=social"></a>
-<a href="https://github.com/HunterNick2/RAVEN-BOT/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/HunterNick2/RAVEN-BOT?label=Watching&style=social"></a>
+<a href="https://github.com/Matthias112?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/Matthias112?label=Followers&style=social"></a>
+<a href="https://github.com/Matthias112/RAVEN-BOT/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Matthias112/RAVEN-BOT?&style=social"></a>
+<a href="https://github.com/Matthias112/RAVEN-BOT/network/members"><img title="Fork" src="https://img.shields.io/github/forks/Matthias112/RAVEN-BOT?style=social"></a>
+<a href="https://github.com/Matthias112/RAVEN-BOT/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Matthias112/RAVEN-BOT?label=Watching&style=social"></a>
 </p>
  
 
@@ -47,7 +47,7 @@ Our AI features use random APIs to run, so sometimes they may be down.
 
 ## ` Fork this repo`
 <p align="centre">
-<a href="https://github.com/HunterNick2/RAVEN-BOT/fork"><img src="https://img.shields.io/badge/Fork%20Create-purple?style=for-the-badge&logo=github" alt="FORK RAVEN-BOT" width="160"></a>
+<a href="https://github.com/Matthias112/RAVEN-BOT/fork"><img src="https://img.shields.io/badge/Fork%20Create-purple?style=for-the-badge&logo=github" alt="FORK RAVEN-BOT" width="160"></a>
 <p/>
 
   
@@ -80,7 +80,7 @@ Our AI features use random APIs to run, so sometimes they may be down.
 
 ## License
 
-[MIT License](https://github.com/HunterNick2/RAVEN-BOT/blob/main/LICENSE)
+[MIT License](https://github.com/Matthias112/RAVEN-BOT/blob/main/LICENSE)
 
 Copyright (c) 2025 RAVEN-BOT 
 
